@@ -24,6 +24,30 @@
         "executavel": "Gerador de G-code.exe",
         "pasta": "GeradorGcodeRust"
       }
+    },
+    {
+      "arquivos": {
+        "mac-x64": {
+          "sha256": "5f7c18e6a3385fab4a1b4533fb716deb8aca6520449e2b1b42743c45d6a04054",
+          "tamanho": 1501197,
+          "url": "https://github.com/thomashonda/cnc-versoes/releases/download/launcher-v0.1.1/launcher-mac-x64.zip"
+        }
+      },
+      "cor": "#4a7ca8",
+      "data": "2026-11-10",
+      "descricao": "Instala e abre os programas",
+      "id": "launcher",
+      "mac": {
+        "app": "Launcher CNC.app"
+      },
+      "nome": "Launcher CNC",
+      "novidades": "",
+      "versao": "0.1.1",
+      "windows": {
+        "atalho": "Launcher CNC",
+        "executavel": "Launcher CNC.exe",
+        "pasta": "LauncherCNC"
+      }
     }
   ]
 }
