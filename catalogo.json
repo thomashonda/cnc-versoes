@@ -3,14 +3,14 @@
   "programas": [
     {
       "arquivos": {
-        "mac-x64": {
-          "sha256": "8f130927969f8575d0dd940948ecb4bfcb6558344165fb934266056017d4a3be",
-          "tamanho": 4086600,
-          "url": "https://github.com/thomashonda/cnc-versoes/releases/download/gerador-gcode-v0.2.0/gerador-gcode-mac-x64.zip"
+        "windows-x64": {
+          "sha256": "6625af50d9d617f159080cce61b61ca4c47780d5dd28748e88f4b85abfbf9d40",
+          "tamanho": 3766051,
+          "url": "https://github.com/thomashonda/cnc-versoes/releases/download/gerador-gcode-v0.2.2/gerador-gcode-windows-x64.zip"
         }
       },
       "cor": "#c8743c",
-      "data": "2026-11-10",
+      "data": "2026-11-11",
       "descricao": "Do desenho ao G-code",
       "id": "gerador-gcode",
       "mac": {
@@ -18,7 +18,7 @@
       },
       "nome": "Gerador de G-code",
       "novidades": "",
-      "versao": "0.2.0",
+      "versao": "0.2.2",
       "windows": {
         "atalho": "Gerador de G-code",
         "executavel": "Gerador de G-code.exe",
