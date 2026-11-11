@@ -31,6 +31,11 @@
           "sha256": "5f7c18e6a3385fab4a1b4533fb716deb8aca6520449e2b1b42743c45d6a04054",
           "tamanho": 1501197,
           "url": "https://github.com/thomashonda/cnc-versoes/releases/download/launcher-v0.1.1/launcher-mac-x64.zip"
+        },
+        "windows-x64": {
+          "sha256": "ca6d720b60b1478b8dc7e5f8c63164928280604fc9f6b48b4dc8193772e849c3",
+          "tamanho": 1160785,
+          "url": "https://github.com/thomashonda/cnc-versoes/releases/download/launcher-v0.1.1/launcher-windows-x64.zip"
         }
       },
       "cor": "#4a7ca8",
